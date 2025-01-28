@@ -1,4 +1,4 @@
-**Lesson 4: AI in Practice & Business Value Identification: Analysis of Successful AI Implementations**
+# AI in Practice & Business Value Identification: Analysis of Successful AI Implementations**
 
 **Duration:** 90 minutes
 
