@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "AI in Practice & Business Value Identification"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "ai-in-practice-business-value-identification"
   type = "Lesson"
 }
 
@@ -27,6 +27,11 @@ courses {
       mls.setup
       mls.concepts
       mls.microlesson01
+      mls.microlesson02
+      mls.microlesson03
+      mls.microlesson04
+      mls.microlesson05
+      mls.microlesson06
       // You can make course-specific adjustments using a syntax like this:
       (mls.microlesson02) {
         type = "Level Up content"
@@ -34,3 +39,4 @@ courses {
     }
   }
 }
+ 
