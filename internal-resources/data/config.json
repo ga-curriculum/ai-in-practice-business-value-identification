@@ -30,7 +30,7 @@
             "estimatedDeliveryTimeInMinutes": 5
           },
           {
-            "friendlyName": "AI Across Industries: Real-World Applications",
+            "friendlyName": "AI Across Industries",
             "dirName": "microlesson-02",
             "type": "Level Up content",
             "skill": "",
@@ -40,7 +40,7 @@
             "estimatedDeliveryTimeInMinutes": 25
           },
           {
-            "friendlyName": "Anatomy of Successful AI Implementations: Learning from the Best",
+            "friendlyName": "Anatomy of Successful AI Implementations",
             "dirName": "microlesson-03",
             "type": "Content",
             "skill": "",
@@ -50,7 +50,7 @@
             "estimatedDeliveryTimeInMinutes": 20
           },
           {
-            "friendlyName": "Identifying Business Value and Opportunities: A Practical Framework",
+            "friendlyName": "Identifying Business Value and Opportunities",
             "dirName": "microlesson-04",
             "type": "Content",
             "skill": "",
@@ -60,7 +60,7 @@
             "estimatedDeliveryTimeInMinutes": 25
           },
           {
-            "friendlyName": "Challenges and Risks of AI Implementation: Navigating the Pitfalls",
+            "friendlyName": "Challenges and Risks of AI Implementation",
             "dirName": "microlesson-05",
             "type": "Content",
             "skill": "",
