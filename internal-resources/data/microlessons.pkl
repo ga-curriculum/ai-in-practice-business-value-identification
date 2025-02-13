@@ -11,28 +11,28 @@ microlesson01 = new Template.Microlesson {
 }
 
 microlesson02 = new Template.Microlesson {
-  friendlyName = "AI Across Industries: Real-World Applications"
+  friendlyName = "AI Across Industries"
   dirName = "microlesson-02"
   type = "Content"
   videoUrl = ""
 }
 
 microlesson03 = new Template.Microlesson {
-  friendlyName = "Anatomy of Successful AI Implementations: Learning from the Best"
+  friendlyName = "Anatomy of Successful AI Implementations"
   dirName = "microlesson-03"
   type = "Content"
   videoUrl = ""
 }
 
 microlesson04 = new Template.Microlesson {
-  friendlyName = "Identifying Business Value and Opportunities: A Practical Framework"
+  friendlyName = "Identifying Business Value and Opportunities"
   dirName = "microlesson-04"
   type = "Content"
   videoUrl = ""
 }
 
 microlesson05 = new Template.Microlesson {
-  friendlyName = "Challenges and Risks of AI Implementation: Navigating the Pitfalls"
+  friendlyName = "Challenges and Risks of AI Implementation"
   dirName = "microlesson-05"
   type = "Content"
   videoUrl = ""
