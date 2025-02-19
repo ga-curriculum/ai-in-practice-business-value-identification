@@ -38,18 +38,6 @@ The ultimate goal of any AI initiative should be to create  **tangible, measurab
 
 **Discussion Point:** Can you think of examples where technology was implemented without a clear business case? What were the consequences?
 
-### C. Introducing Deloitte's Trustworthy AI™ Framework
-
-Deloitte's Trustworthy AI™ Framework provides a comprehensive guide for organizations to develop and deploy AI responsibly. It emphasizes six key dimensions:
-
--   ⚖️  **Fair and Impartial:**  AI systems should not unfairly discriminate against certain individuals or groups, requiring mitigation of biases in data and algorithms.
--   🔍  **Transparent and Explainable:**  Decisions made by AI systems should be understandable and transparent to users and stakeholders, leveraging explainable AI (XAI) techniques.
--   🧑‍💻  **Responsible and Accountable:**  Clear accountability should be established for the development, deployment, and outcomes of AI systems.
--   🔐  **Safe and Secure:**  AI systems should be robust, reliable, and secure, protecting against errors, manipulation, and unauthorized access.
--   🛡️  **Respectful of Privacy:**  AI systems should respect individual privacy rights and comply with data privacy regulations (e.g., GDPR, CCPA).
--   ✅ **Robust and Reliable:** AI systems should perform consistently and accurately, minimizing errors and unintended consequences.
-
-Throughout this session, we will revisit these dimensions to ensure that our discussion of AI in practice is grounded in ethical considerations.
 
 **Running Example: ShopSmart**
 
