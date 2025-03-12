@@ -42,10 +42,10 @@ graph TD;
 
 [AI Business Value Scorecard](AI_Business_Value_Scorecard.pdf)
 
-**Scenarios:**
-[AI for Predictive Maintenance in Manufacturing](AI_Predictive_Maintenance.pdf)
-[AI-Driven Customer Personalization for a Retail Bank](AI_Customer_Personalization.pdf)
-[AI-Powered Workforce Planning for a Healthcare System](AI_Healthcare_Workforce.pdf)
+**Scenarios:**\
+[AI for Predictive Maintenance in Manufacturing](AI_Predictive_Maintenance.pdf)\
+[AI-Driven Customer Personalization for a Retail Bank](AI_Customer_Personalization.pdf)\
+[AI-Powered Workforce Planning for a Healthcare System](AI_Healthcare_Workforce.pdf)\
 [AI for Supply Chain Optimization in Consumer Goods](AI_Supply_Chain_Optimization.pdf)
 
 ## **Discussion & Reflection**
