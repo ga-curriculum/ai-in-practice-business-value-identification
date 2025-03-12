@@ -20,6 +20,5 @@ By the end of this session, you will be equipped to:
 | [Challenges & Risks: Case-Based Analysis](./microlesson-03/README.md) | 30 min | Assess real-world AI failures and propose mitigation strategies. |
 | **Total content** | 90 min | Active analysis and application of AI concepts. |
 
-This module prioritizes interactive learning, helping you gain practical skills in AI evaluation, implementation, and risk mitigation.
 
 
