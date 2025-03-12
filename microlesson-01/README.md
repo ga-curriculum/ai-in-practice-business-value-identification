@@ -17,6 +17,7 @@ In this activity you will think critically about AI adoption in real-world busin
 5. **Present & Compare**: Each team presents its decision and reasoning. Then, compare with actual real-world AI case studies.
 
 ## **Decision Matrix Worksheet (Example)**
+
 | Factor | High | Medium | Low |
 |--------|------|--------|-----|
 | Business Benefit | ✅ | | |
@@ -35,3 +36,4 @@ In this activity you will think critically about AI adoption in real-world busin
 - [AI in Energy – Smart Grid Optimization & Blackout Risks](/microlesson-01/AI_Energy.pdf)
 - [AI in Financial Services – AI Stock Trading & Market Manipulation](/microlesson-01/AI_Financial_Services.pdf)
 
+<a href="/microlesson-01/AI_Consumer_Services.pdf" download>Download AI Consumer Services PDF</a>
