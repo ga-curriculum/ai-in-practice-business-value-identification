@@ -36,4 +36,4 @@ In this activity you will think critically about AI adoption in real-world busin
 - [AI in Energy – Smart Grid Optimization & Blackout Risks](/microlesson-01/AI_Energy.pdf)
 - [AI in Financial Services – AI Stock Trading & Market Manipulation](/microlesson-01/AI_Financial_Services.pdf)
 
-[Download AI Consumer Services PDF](microlesson-01/AI_Consumer_Services.pdf)
+[Download AI Consumer Services PDF](AI_Consumer_Services.pdf)
