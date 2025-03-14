@@ -13,11 +13,11 @@ By the end of this lesson, you will be able to:
 In this session we will explore major risks associated with AI adoption, including **technical, organizational, ethical, and compliance challenges**. Through real-world case studies, you will evaluate failures and develop strategies for responsible AI deployment.
 
 ## **Common AI Challenges & Risks**
-1️⃣ **Data Issues** (bias, quality, availability)\
-2️⃣ **Model Failures** (overfitting, explainability, generalization issues)\
-3️⃣ **Ethical & Compliance Risks** (privacy, fairness, security)\
-4️⃣ **Operational Challenges** (scalability, integration, maintenance)\
-5️⃣ **User & Organizational Resistance** (adoption barriers, trust in AI)
+**Data Issues** (bias, quality, availability)\
+**Model Failures** (overfitting, explainability, generalization issues)\
+**Ethical & Compliance Risks** (privacy, fairness, security)\
+**Operational Challenges** (scalability, integration, maintenance)\
+**User & Organizational Resistance** (adoption barriers, trust in AI)
 
 ## **Case Study Analysis Activity**
 
