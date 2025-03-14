@@ -31,7 +31,7 @@ In this activity you will think critically about AI adoption in real-world busin
 - [AI in Energy – Smart Grid Optimization & Blackout Risks](AI_Energy.pdf)
 - [AI in Financial Services – AI Stock Trading & Market Manipulation](AI_Financial_Services.pdf)
 
-## **Discussion Questions - Be prepared to discuss With the class!**
+## **Discussion Questions - Be prepared to discuss with the class!**
 - What risks did your team prioritize in making its decision?
 - If you modified the approach, what changes did you suggest?
 - How do AI fairness and transparency impact real-world applications?
