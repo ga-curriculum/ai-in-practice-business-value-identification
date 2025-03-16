@@ -13,12 +13,9 @@ By the end of this session, you will be equipped to:
 
 ## Content
 
-| Lesson | Est. Delivery Time | Skills |
-|--------|-------------------:|--------|
-| [AI in Practice: Descision Making Simulation](./microlesson-01/README.md) | 30 min | Explore AI applications and analyze key success factors. |
-| [Identifying Business Value: Hands-On Framework Application](./microlesson-02/README.md) | 30 min | Evaluate and prioritize AI opportunities using a structured framework. |
-| [Challenges & Risks: Case-Based Analysis](./microlesson-03/README.md) | 30 min | Assess real-world AI failures and propose mitigation strategies. |
-| **Total content** | 90 min | Active analysis and application of AI concepts. |
-
-
-
+| Lesson                                                                                   | Est. Delivery Time | Skills                                                                 |
+| ---------------------------------------------------------------------------------------- | -----------------: | ---------------------------------------------------------------------- |
+| [AI in Practice: Decision Making Simulation](./microlesson-01/README.md)                 |             30 min | Explore AI applications and analyze key success factors.               |
+| [Identifying Business Value: Hands-On Framework Application](./microlesson-02/README.md) |             30 min | Evaluate and prioritize AI opportunities using a structured framework. |
+| [Challenges & Risks: Case-Based Analysis](./microlesson-03/README.md)                    |             30 min | Assess real-world AI failures and propose mitigation strategies.       |
+| **Total content**                                                                        |             90 min | Active analysis and application of AI concepts.                        |
