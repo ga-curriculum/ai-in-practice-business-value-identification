@@ -1,20 +1,20 @@
 <h1>
   <span class="headline">AI in Practice & Business Value Identification</span>
-  <span class="subhead">AI in Practice: Descision Making Simulation</span>
+  <span class="subhead">AI in Practice: Decision Making Simulation</span>
 </h1>
   
 ## **Overview**
 In this activity you will think critically about AI adoption in real-world business scenarios. You will evaluate AI’s potential benefits, technical feasibility, and ethical considerations before making a strategic recommendation.
 
 ## **Instructions**
-1. **Form Teams**: Work in small groups or pairs to analyze the AI business scenario assigned to you.
+1. **Form Teams**: Work in small groups or pairs to analyze the assigned AI business scenario.
 2. **Review the Scenario Brief**: Read the provided document carefully to understand the problem.
 3. **Complete the Decision Matrix**: Assess key decision factors using the structured worksheet below.
 4. **Make a Final Recommendation**:
    - **Proceed** with AI as planned.
-   - **Modify the approach** to address risks.
+   - **Modify the approach** to mitigate risks.
    - **Abandon** the AI solution and explore alternatives.
-5. **Present & Compare**: Each team presents its decision and reasoning. Then, compare with actual real-world AI case studies.
+5. **Present & Compare**: Present your recommendation and rationale. Then compare your decision with real-world AI case outcomes.
 
 ## **Decision Matrix Worksheet (Example)**
 
@@ -32,7 +32,7 @@ In this activity you will think critically about AI adoption in real-world busin
 - [AI in Financial Services – AI Stock Trading & Market Manipulation](AI_Financial_Services.pdf)
 
 ## **Discussion Questions - Be prepared to discuss with the class!**
-- What risks did your team prioritize in making its decision?
-- If you modified the approach, what changes did you suggest?
-- How do AI fairness and transparency impact real-world applications?
+- What risks did your team prioritize most in making its decision?
+- If you chose to modify the approach, what specific changes did you recommend?
+- How do fairness and transparency impact real-world AI adoption?
 
