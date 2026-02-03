@@ -7,15 +7,24 @@
 
 This session will guide you through a structured **5-step framework** to evaluate AI opportunities and assess their business impact.
 
+## **Learning Objectives**
+By the end of this session, you will be able to:
+
+- Evaluate AI use cases using a structured business value framework.
+- Prioritize AI opportunities based on impact, feasibility, and risk.
+- Make and defend AI investment decisions in real-world contexts.
+
+---
+
 ## **AI Business Value Framework and Guiding Questions**
 
 <div class=mermaid>
 graph TD;
-    A[Define the Business Problem] --> |How is it currently addressed?| B[Identify AI's Role in Solving It];
+    A[Define the Business Problem] --> |How is it currently addressed?| B[Determine AI's Role in Solving It];
     B --> |What type of AI model or approach would be suitable?| C[Assess Business Impact & Value];
     C --> |What measurable outcomes should we expect?| D[Evaluate Feasibility & Risks];
     D --> |Are there ethical, compliance, or implementation concerns?| E[Prioritize AI Opportunities];
-    E -->|What should be a **quick win** vs. a **long-term investment**?| F[Final Decision];
+    E -->|What should be a **quick win** vs. a **long-term investment**?| F[Make the Final Decision];
 
     subgraph " "
         A -->|What problem are we solving?| B;
@@ -33,8 +42,8 @@ graph TD;
 
 ### **Step-by-Step Instructions**
 
-1️⃣ **Review Your AI Use Case Scenario** *(Instructor will assign scenarios)*\
-2️⃣ **Use the AI Business Value Scorecard** *(Evaluate feasibility, impact, and risks)*\
+1️⃣ **Review the AI Use Case Scenario** *(Instructor will assign scenarios)*\
+2️⃣ **Complete the AI Business Value Scorecard** *(Evaluate feasibility, impact, and risks)*\
 3️⃣ **Prepare a Summary** *(Justify your AI decision & prioritization)*\
 4️⃣ **Present or Submit Your Findings** *(Team presentations or individual submission)*
 
@@ -50,7 +59,7 @@ graph TD;
 
 ## **Discussion & Reflection**
 
-- What was the biggest factor influencing your AI decision?
+- What factor most influenced your final AI decision?
 - How did feasibility vs. impact shape your prioritization?
 - What would improve AI business evaluation in your organization?
 
