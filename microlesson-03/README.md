@@ -7,10 +7,10 @@
 By the end of this lesson, you will be able to:
 - Identify common challenges and risks in AI implementation.
 - Analyze real-world AI failures to extract key lessons.
-- Develop mitigation strategies to improve AI project success.
+- Design mitigation strategies to treduce risk and improve AI project success.
 
 ## **Overview**
-In this session we will explore major risks associated with AI adoption, including **technical, organizational, ethical, and compliance challenges**. Through real-world case studies, you will evaluate failures and develop strategies for responsible AI deployment.
+In this session, you will explore major risks associated with AI adoption, including **technical, organizational, ethical, and compliance challenges**. Through real-world case studies, you will evaluate failures and develop strategies for responsible AI deployment.
 
 ## **Common AI Challenges & Risks**
 **Data Issues** (bias, quality, availability)\
@@ -24,7 +24,7 @@ In this session we will explore major risks associated with AI adoption, includi
 **Your Task:** Work through real-world AI failure cases to diagnose risks and propose solutions.
 
 ### **Step-by-Step Instructions**
-1️⃣ **Review Your Assigned AI Failure Case** *(Instructor will assign case studies)*\
+1️⃣ **Review the Assigned AI Failure Case** *(Instructor will assign case studies)*\
 2️⃣ **Analyze the Root Cause** *(What went wrong? Which risk factors were involved?)*\
 3️⃣ **Identify the Impact** *(Business, ethical, technical consequences?)*\
 4️⃣ **Develop Mitigation Strategies** *(How could the failure have been prevented?)*\
@@ -36,6 +36,6 @@ In this session we will explore major risks associated with AI adoption, includi
 [Case 3: AI in Healthcare Misdiagnosis](AI_Healthcare_Misdiagnosis.pdf)
 
 ## **Discussion & Reflection**
-- What was the root cause of the AI failure in your case study?
+- What was the primary root cause of the AI failure in your case study?
 - What best practices could have prevented it?
 - How can AI governance frameworks help mitigate risks?
